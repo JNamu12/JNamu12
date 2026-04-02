@@ -62,7 +62,7 @@
 
 ## 📊 GitHub Stats  
 
-![Namrata's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+https://test-plan-agent-kappa.vercel.app/
 
 ---
 
