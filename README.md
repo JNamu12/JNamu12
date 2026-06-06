@@ -60,9 +60,11 @@
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Stats_Deployed project_Vercel 
 
-https://test-plan-agent-kappa.vercel.app/
+https://testplanagent.vercel.app/
+https://aijobtracker-five.vercel.app/
+https://advanceragchunkingembeding.vercel.app/
 
 ---
 
